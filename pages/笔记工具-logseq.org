@@ -1,5 +1,6 @@
 #+TITLE: 笔记工具-logseq
 
-** | Notion | Evernote | Wiznote | Leanote | Onenote ｜
+** 
+| Notion | Evernote | Wiznote | 
 |
 **
