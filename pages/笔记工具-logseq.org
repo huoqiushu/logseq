@@ -1,4 +1,4 @@
 #+TITLE: 笔记工具-logseq
 
-** | Notion | Evernote | Wiznote | Onenote | Leanote | 语雀｜
+** | Notion | Evernote | Wiznote | Onenote | Leanote | yuque｜
 ** | Markdown | org-mode | 富文本｜
