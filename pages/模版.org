@@ -5,7 +5,7 @@
 :last_modified_at: 1609337624066
 :background_color: #497d46
 :created_at: 1609233078964
-:template: Read
+:template: book
 :type: [[book]]
 :author: 
 :publication_date: 
