@@ -1,3 +1,6 @@
 #+TITLE: 模版
 
 ** Read
+:PROPERTIES:
+:template: Read
+:END:
