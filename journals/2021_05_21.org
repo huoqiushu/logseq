@@ -10,8 +10,8 @@ DEADLINE: <2021-05-28 Fri>
 **
 ** block\_embed
 {{embed ((60a76aaf-f0c3-420a-a6ed-f5252022b007)) }}
-** block_ref
-(())
+** block\_ref
+((((60a76aaf-f0c3-420a-a6ed-f5252022b007))))
 ** TODO 带东西
 :PROPERTIES:
 :doing: 1621585267333
