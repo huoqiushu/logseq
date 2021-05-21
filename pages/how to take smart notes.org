@@ -5,9 +5,17 @@
 :last_modified_at: 1609337624066
 :background_color: #497d46
 :created_at: 1609233078964
-:type: [[book]]
-:author: [[sönke ahrens]]
-:publication_date: [[february 21, 2017]]
+:END:
+** 
+:PROPERTIES:
+:last_modified_at: 1609337624066
+:publication_date: 
+:author: 
+:source: 
+:type: #{"book"}
+:background_color: #497d46
+:created_at: 1609233078964
+:category: 
 :END:
 ** A XXX
 ** B BBBB
