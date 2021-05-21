@@ -16,4 +16,6 @@
  MWeb、Ulysses、Typora，Bear
  编辑器：VSCode、Emacs，Vim
 ** 没有银弹
+- 多端同步，导入导出，发布
+- 所见即所得
 ** | Markdown | org-mode | 富文本｜
