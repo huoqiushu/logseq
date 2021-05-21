@@ -15,7 +15,7 @@ DEADLINE: <2021-05-28 Fri>
 ** page\_embed
 {{embed [[How to take smart notes]] }}
 ** page\_ref
-/page
+[[How to take smart notes]]
 ** TODO 带东西
 :PROPERTIES:
 :doing: 1621585267333
