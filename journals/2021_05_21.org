@@ -1,7 +1,7 @@
 #+TITLE: May 21st, 2021
 
 ** [[模版]]
-** TODO 买衣服
+** TODO 
 :PROPERTIES:
 :todo: 1621576770236
 :END:
