@@ -22,5 +22,5 @@
 :created_at: 1609233078964
 :category: 
 :END:
-**
+** ceui #ui
 ** [[How to take smart notes]]
