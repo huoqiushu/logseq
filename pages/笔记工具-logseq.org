@@ -8,6 +8,6 @@ Leanote
 语雀
 有道云笔记
  双链笔记
-Ulysses、Typora、Bear
+MWeb、Ulysses、Typora、Bear
 **
 ** | Markdown | org-mode | 富文本｜
