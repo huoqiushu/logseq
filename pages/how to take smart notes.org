@@ -3,13 +3,13 @@
 ** 
 :PROPERTIES:
 :last_modified_at: 1609337624066
-:background_color: #497d46
+:background_color: #533e7d
 :created_at: 1609233078964
-:publication_date: [[february 21, 2017]]
-:author: [[sönke ahrens]]
 :source: 
 :type: #{"book"}
 :category: 
+:publication_date: [[february 21, 2017]]
+:author: [[sönke ahrens]]
 :END:
 ** A XXX
 ** B BBBB
