@@ -8,5 +8,5 @@
 :template: Read
 :type: [[book]]
 :author: 
-:publication_date: [[february 21, 2017]]
+:publication_date: 
 :END:
