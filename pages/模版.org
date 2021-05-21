@@ -22,4 +22,5 @@
 :created_at: 1609233078964
 :category: 
 :END:
+**
 ** [[How to take smart notes]]
