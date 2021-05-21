@@ -8,7 +8,7 @@
 :source: 
 :type: [[book]]
 :template: read-book
-:background_color: #793e3e
+:background_color: #533e7d
 :created_at: 1609233078964
 :category: 
 :END:
