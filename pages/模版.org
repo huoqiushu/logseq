@@ -16,5 +16,8 @@
 :background_color: #497d46
 :created_at: 1609233078964
 :template: read-book
+:type: [[book]]
+:author: 
+:publication_date: 
 :END:
 ** [[How to take smart notes]]
