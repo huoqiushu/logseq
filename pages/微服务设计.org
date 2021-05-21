@@ -24,7 +24,7 @@ dafd
 ** shuzhai
 *** 第22章 整洁架构
 
-[[https://res.weread.qq.com/wrepub/epub_33692210_91][epub_33692210_91]]
+[[https://res.weread.qq.com/wrepub/epub\_33692210\_91][epub_33692210_91]]
 
 
 图22.1：整洁架构
