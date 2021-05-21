@@ -23,3 +23,7 @@
 **** EEEE
 ** ~abc~
 ** ^^qwer^^
+** code
+#+BEGIN_SRC 
+
+#+END_SRC
