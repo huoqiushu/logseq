@@ -1,11 +1,9 @@
 #+TITLE: 笔记工具-logseq
 
 ** Notion
-Evernote 
-Wiznote 
-Onenote
-Leanote 
-语雀
+云笔记
+语雀 / Evernote / Wiznote / Onenote / Leanote
+
 有道云笔记
  双链笔记
 *** 笔记格式：
