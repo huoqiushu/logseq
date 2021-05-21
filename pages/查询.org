@@ -1,3 +1,10 @@
 #+TITLE: 查询
 
-** 
+** All TODOs
+#+BEGIN_QUERY
+{:title "TODO"
+ :query [:find (pull ?b [*])
+         :where
+         [?b :block/marker ?marker]
+         [(= "TODO" ?marker)]]}
+#+END_QUERY
