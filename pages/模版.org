@@ -6,7 +6,7 @@
 :publication_date: 
 :author: 
 :source: 
-:type: #book
+:type: 
 :template: read
 :background_color: #533e7d
 :created_at: 1609233078964
