@@ -1,15 +1,13 @@
 #+TITLE: May 21st, 2021
 
 ** [[模版]]
-** 
-#+BEGIN_SRC 
-
-#+END_SRC
 ** TODO  abc 
 :PROPERTIES:
 :todo: 1621585873934
 :END:
 DEADLINE: <2021-05-21 Fri>
+**
+**
 **
 ** block\_embed
 {{embed ((60a76aaf-f0c3-420a-a6ed-f5252022b007)) }}
