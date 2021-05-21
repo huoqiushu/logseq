@@ -8,6 +8,6 @@
 :publication_date: 
 :author: [[张三]]
 :source: [[weread]]
-:type: 
+:type: [[book]]
 :END:
 **
