@@ -3,14 +3,13 @@
 ** 
 :PROPERTIES:
 :last_modified_at: 1609337624066
+:background_color: #533e7d
+:created_at: 1609233078964
 :publication_date: 
 :author: 
 :source: 
 :type: 
 :template: read
-:background_color: #533e7d
-:created_at: 1609233078964
-:category: 
 :END:
 ** ceui #ui
 ** [[How to take smart notes]]
