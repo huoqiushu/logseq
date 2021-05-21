@@ -8,8 +8,8 @@
 :PROPERTIES:
 :doing: 1621585267333
 :todo: 1621585266129
-:now: 1621585292018
-:later: 1621585294827
+:now: 1621585296532
+:later: 1621585299255
 :done: 1621585272975
 :END:
 ** {{query (property type book)}}
