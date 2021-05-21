@@ -24,4 +24,6 @@
 ** ~abc~
 ** ^^qwer^^
 ** test
-<
+#+BEGIN_NOTE
+abc
+#+END_NOTE
