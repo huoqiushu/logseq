@@ -6,7 +6,7 @@
 :PROPERTIES:
 :todo: 1621585873934
 :END:
-DEADLINE: <2021-05-28 Fri>
+DEADLINE: <2021-05-21 Fri>
 **
 ** block\_embed
 {{embed ((60a76aaf-f0c3-420a-a6ed-f5252022b007)) }}
