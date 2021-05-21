@@ -4,12 +4,12 @@
 **
 **
 **
-** DONE 带东西
+** TODO 带东西
 :PROPERTIES:
 :doing: 1621585267333
-:todo: 1621585266129
-:now: 1621585300942
-:later: 1621585299255
+:todo: 1621585311916
+:now: 1621585306919
+:later: 1621585305881
 :done: 1621585304321
 :END:
 ** {{query (property type book)}}
