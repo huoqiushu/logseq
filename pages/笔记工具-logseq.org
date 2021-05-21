@@ -2,10 +2,10 @@
 
 ** Notion
 *** 云笔记
-**** 语雀 / Evernote / Onenote / Leanote
-**** 大纲笔记
-***** Wiznote
-**** 有道云笔记
+ 语雀 / Evernote / Onenote / Leanote
+*** 大纲笔记
+**** Wiznote
+*** 有道云笔记
  双链笔记
 *** 笔记格式：
 **** 富文本
