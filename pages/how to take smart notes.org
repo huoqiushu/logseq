@@ -24,5 +24,3 @@
 ** ~abc~
 ** ^^qwer^^
 ** test
-
-#+END_QUOTE
