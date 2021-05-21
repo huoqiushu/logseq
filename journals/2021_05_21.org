@@ -1,7 +1,8 @@
 #+TITLE: May 21st, 2021
 
 ** [[模版]]
-** daf /sec
+** daf 
+SCHEDULED: <2021-05-26 Wed 16:20 .+1d>
 **
 **
 ** TODO 带东西
