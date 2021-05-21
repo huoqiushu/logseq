@@ -8,6 +8,8 @@ Leanote
 语雀
 有道云笔记
  双链笔记
-MWeb、Ulysses、Typora、Bear
+
+笔记格式：富文本、
+写作工具：MWeb、Ulysses、Typora、Bear
 **
 ** | Markdown | org-mode | 富文本｜
