@@ -2,6 +2,6 @@
 
 ** Read
 :PROPERTIES:
-:template: Read
 :background_color: #497d46
+:template: Read
 :END:
