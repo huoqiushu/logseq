@@ -6,7 +6,8 @@
 :todo: 1621576770236
 :END:
 ** {{query (property type book)}}
-** #+BEGIN_QUERY
+** 
+#+BEGIN_QUERY
 {:title [:h2 "My books"]
  :query [:find (pull ?b [*])
          :where
@@ -14,3 +15,4 @@
          [(get ?p "type") ?t]
          [(= "[[book]]" ?t)]]
  }
+#+END_QUERY
