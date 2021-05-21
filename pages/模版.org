@@ -10,4 +10,12 @@
 :publication_date: 
 :template: read
 :END:
-** / re
+** 
+:PROPERTIES:
+:last_modified_at: 1609337624066
+:background_color: #497d46
+:created_at: 1609233078964
+:type: #{"book"}
+:author: 
+:publication_date: 
+:END:
