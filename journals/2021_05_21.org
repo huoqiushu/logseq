@@ -4,9 +4,10 @@
 **
 **
 **
-** TODO 带东西
+** DOING 带东西
 :PROPERTIES:
-:todo: 1621576770236
+:doing: 1621585267333
+:todo: 1621585266129
 :END:
 ** {{query (property type book)}}
 ** 
