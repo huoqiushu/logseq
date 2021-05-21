@@ -12,8 +12,4 @@
 :END:
 ** efg
 ** abc
-** ** abc
-*** dadfa
-*** dafad
-*** adffadfa
-*** a
+**
