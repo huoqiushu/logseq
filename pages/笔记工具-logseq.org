@@ -6,7 +6,7 @@ Wiznote
 Onenote
 Leanote 
 语雀
-双链笔记
+ 双链笔记
 |
 **
 ** | Markdown | org-mode | 富文本｜
