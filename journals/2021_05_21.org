@@ -2,11 +2,14 @@
 
 ** [[模版]]
 **
-** TODO  abc /
+** TODO  abc 
 :PROPERTIES:
 :todo: 1621585873934
 :END:
 DEADLINE: <2021-05-28 Fri>
+**
+** abc
+** /bo
 **
 ** TODO 带东西
 :PROPERTIES:
