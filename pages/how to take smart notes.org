@@ -6,7 +6,7 @@
 :background_color: #533e7d
 :created_at: 1609233078964
 :source: 
-:type: #{"book"}
+:type: [[book]]
 :category: 
 :publication_date: [[february 21, 2017]]
 :author: [[sönke ahrens]]
