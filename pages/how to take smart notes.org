@@ -24,6 +24,4 @@
 ** ~abc~
 ** ^^qwer^^
 ** test
-#+BEGIN_PINNED
-abc
-#+END_PINNED
+<
