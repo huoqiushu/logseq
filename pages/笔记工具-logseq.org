@@ -13,7 +13,6 @@
 **** org-mode
 ***** [[https://cdn.logseq.com/%2Fe1dc7250-e2d3-4eb8-a894-2dee807be4d7f980356a-d500-407c-a191-f7a2a14f07a22021_05_21_image.png?Expires=4775161799&Signature=bOIIcjxfEepkYL3wpAJ1OxN4ivAMsW97FgsoiHIn1WTIIBpBi89uW0S2iLTJSiBfjCIR-4fcpQhRI5ntcmqajFZuUfLeNfkQHMlPWdIJ6owafUap5U8Yj9QVXZcNg6Zf1GUtu1G8lF3xGm0ATmqd240Vd-xdnhV-~-hoD5QPnuTZx36LLBIRXS7xbbCqiw~7yzSwmAWe2yy9A6698WW54a-mmOqMTdRSxAnM2iR1PUh2hrwVfkygjL~SjtJyKOxbkZgGFhdFe~jnbuDTcxoshr8dNto9ECZ86oWruIqTLSwSOLr8-YighnY-yagEcSENowQA75BZRg6SO1A6PHCBxA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]
 ** 写作工具：
-*** MWeb、Ulysses、Typora，Bear
-*** 编辑器：VSCode、Emacs，Vim
+ MWeb、Ulysses、Typora，Bear
 **
 ** | Markdown | org-mode | 富文本｜
