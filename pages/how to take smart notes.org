@@ -24,4 +24,4 @@
 ** ~abc~
 ** ^^qwer^^
 ** test
-/
+/link
