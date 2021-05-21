@@ -24,4 +24,6 @@
 ** ~abc~
 ** ^^qwer^^
 ** test
-<
+#+BEGIN_TIP
+
+#+END_TIP
