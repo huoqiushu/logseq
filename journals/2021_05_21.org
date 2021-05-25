@@ -9,7 +9,7 @@ DEADLINE: <2021-05-21 Fri>
 **
 ** [[微服务设计]]
 **
-** [[https://cdn.logseq.com/%2Fc7d5c020-d988-4bae-a9df-273d316aadb6ed6ba3b1-a064-4115-8e0c-7753527bdb342021_04_07_image.png?Expires=4771364979&Signature=CM8IPTznh0baelw8oAV1Nzo0bVA2Vmk1gwjIqeQb-EO4fxn4V0dawykyhfSTQeMljmF-GF4yOtxDpus-QeFzg20RzQlxL~lSazwj6K0BFJpPTnQm6~YK9vVkTatZ4xv9hbjr70IcpgS6uyHX~lT~CcOCNo9uJnv5jB63Y2Qb44xW7arcJbn6O97rDFf3ApZmrr7lfxRsLZu7u9C2aVSkwhweUA0R8TvJ5J3vGdgj~jUzRzCEsdt0efSnoURvsujdMXUWEJbqLzJ0SR2JtWxL1BpQ1O1WkG0w7YXbwvPieih1VBNcvCphkoBdGFF3YZG3ogeiGuDym2VyYqUvNnPKWw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]{:height 302, :width 798}
+**
 ** 11.12 服务发现
 
 我见过的解决方案，都会把事情分成两部分进行处理。首先，它们提供了一些机制，让一个
