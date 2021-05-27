@@ -4,7 +4,7 @@
 *** 云笔记
  语雀 / 有道 / Evernote / Onenote / Leanote / Wiznote
 *** 大纲笔记
-**** Wiznote
+**** WorkFlowy
 *** 双链笔记
 *** 笔记格式：
 **** 富文本
