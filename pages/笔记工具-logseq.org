@@ -14,6 +14,10 @@
 ** 写作工具：
  MWeb、Ulysses、Typora，Bear
  编辑器：VSCode、Emacs，Vim
+** Logseq
+*** Logseq是什么？
+一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件
+***
 ** 没有银弹
 - *搜索*
 - 多客户端支持，导入导出，发布
