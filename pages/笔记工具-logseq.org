@@ -2,7 +2,7 @@
 
 **
 *** 云笔记
- 语雀 / 有道 / Evernote / Onenote / Leanote / Wiznote
+ 语雀 / 有道 / Notion / Evernote / Onenote / Leanote / Wiznote
 *** 大纲笔记
 **** WorkFlowy
 *** 笔记格式：
