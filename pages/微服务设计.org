@@ -11,7 +11,7 @@
 :type: [[book]]
 :END:
 ** efg
-** abc
+**
 ** qwer
 *** t
 *** dafd
@@ -23,11 +23,6 @@
 
 
 [[https://res.weread.qq.com/wrepub/epub_33692210_91][image]]
-** sdf
-*** dafd
-**** fa
-dafd
-**** qer
 **
 *** 图22.1：整洁架构
 
