@@ -8,8 +8,8 @@
 ** 笔记格式：
 *** 富文本
 *** Markdown
-**** org-mode
-***** [[https://cdn.logseq.com/%2Fe1dc7250-e2d3-4eb8-a894-2dee807be4d787bca426-993a-4f2a-9659-9347e973f5e82021_05_21_image.png?Expires=4775162126&Signature=XWTuDqaEo2PLH9QARrjPhpI-1G8BylohTORzaGIQE1sAqGMYV0oVXN~iQA9oJ6lZjYKhlklNs0pJ3rE1MULj8vPWQB~aGPIIj3EQclOF5l0zH6Iq2f~HZAhdX6zYSYXKMYD7JhjBD3IhLIRl2Nh0R8JL9zOrkncfnBnjx5tqetKzmXiLeA1qjSHo5h1rJjP4e3lPO6~ViO1Tp1Aywl~4P045YbvPkDesIIJeuqFI8oA771Gh7hSiNXeUhCCa7K715DFUu0Zheuvw41IKM2owIXgt9KdSmFU9PDRv6lYckD5PiwoKvgEeNBDLGg9H4S9dS6sKPbjq0~ScwYWa1T0YgQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]{:height 531, :width 960}
+*** org-mode
+**** [[https://cdn.logseq.com/%2Fe1dc7250-e2d3-4eb8-a894-2dee807be4d787bca426-993a-4f2a-9659-9347e973f5e82021_05_21_image.png?Expires=4775162126&Signature=XWTuDqaEo2PLH9QARrjPhpI-1G8BylohTORzaGIQE1sAqGMYV0oVXN~iQA9oJ6lZjYKhlklNs0pJ3rE1MULj8vPWQB~aGPIIj3EQclOF5l0zH6Iq2f~HZAhdX6zYSYXKMYD7JhjBD3IhLIRl2Nh0R8JL9zOrkncfnBnjx5tqetKzmXiLeA1qjSHo5h1rJjP4e3lPO6~ViO1Tp1Aywl~4P045YbvPkDesIIJeuqFI8oA771Gh7hSiNXeUhCCa7K715DFUu0Zheuvw41IKM2owIXgt9KdSmFU9PDRv6lYckD5PiwoKvgEeNBDLGg9H4S9dS6sKPbjq0~ScwYWa1T0YgQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA]]{:height 531, :width 960}
 ** 写作工具：
  MWeb、Ulysses、Typora，Bear
  编辑器：VSCode、Emacs，Vim
