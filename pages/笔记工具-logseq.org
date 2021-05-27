@@ -15,7 +15,7 @@
  编辑器：VSCode、Emacs，Vim
 ** Logseq
 *** Logseq是什么？
-一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件
+**** 一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件
 *** 特点
 **** 大纲，多层级 block 内容
 **** 格式支持：org-mode / Markdown
