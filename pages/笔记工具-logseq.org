@@ -1,11 +1,10 @@
 #+TITLE: 笔记工具-logseq
 
-** Notion
+**
 *** 云笔记
  语雀 / 有道 / Evernote / Onenote / Leanote / Wiznote
 *** 大纲笔记
 **** WorkFlowy
-*** 双链笔记
 *** 笔记格式：
 **** 富文本
 **** Markdown
