@@ -28,7 +28,7 @@ DEADLINE: <2021-05-24 Mon>
 :later: 1621585305881
 :done: 1621585304321
 :END:
-** TODO 带东西
+** TODO 打电话
 ** {{query (property type book)}}
 ** 
 #+BEGIN_QUERY
