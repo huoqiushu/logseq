@@ -12,11 +12,6 @@
 :END:
 ** efg
 ** abc
-** sdf
-*** dafd
-**** fa
-dafd
-**** qer
 ** qwer
 *** t
 *** dafd
@@ -28,6 +23,11 @@ dafd
 
 
 [[https://res.weread.qq.com/wrepub/epub_33692210_91][image]]
+** sdf
+*** dafd
+**** fa
+dafd
+**** qer
 **
 *** 图22.1：整洁架构
 
