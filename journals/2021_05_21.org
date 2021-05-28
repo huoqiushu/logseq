@@ -1,10 +1,11 @@
 #+TITLE: May 21st, 2021
 
 ** [[模版]]
-** DOING  买雨伞 
+** DONE  买雨伞 
 :PROPERTIES:
-:todo: 1621585873934
 :doing: 1622195913472
+:todo: 1621585873934
+:done: 1622195927330
 :END:
 DEADLINE: <2021-05-24 Mon>
 **
