@@ -9,7 +9,7 @@
          [(= "TODO" ?marker)]]}
 #+END_QUERY
 **
-** 
+**
 #+BEGIN_QUERY
 {:title [:h2 "My books"]
  :query [:find (pull ?b [*])
@@ -19,3 +19,4 @@
          [(= "[[book]]" ?t)]]
  }
 #+END_QUERY
+** {{query (property type book)}}
