@@ -30,13 +30,4 @@ DEADLINE: <2021-05-24 Mon>
 :END:
 ** TODO 打电话
 ** {{query (property type book)}}
-** 
-#+BEGIN_QUERY
-{:title [:h2 "My books"]
- :query [:find (pull ?b [*])
-         :where
-         [?b :block/properties ?p]
-         [(get ?p "type") ?t]
-         [(= "[[book]]" ?t)]]
- }
-#+END_QUERY
+**
