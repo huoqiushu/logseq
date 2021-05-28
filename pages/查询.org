@@ -9,14 +9,5 @@
          [(= "TODO" ?marker)]]}
 #+END_QUERY
 **
-** 
-#+BEGIN_QUERY
-{:title [:h2 "My books"]
- :query [:find (pull ?b [*])
-         :where
-         [?b :block/properties ?p]
-         [(get ?p "type") ?t]
-         [(= "[[book]]" ?t)]]
- }
-#+END_QUERY
+**
 ** {{query (property type book)}}
