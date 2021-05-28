@@ -29,5 +29,5 @@ DEADLINE: <2021-05-24 Mon>
 :done: 1621585304321
 :END:
 ** TODO 打电话
-** {{query (property type book)}}
+**
 **
